@@ -2,18 +2,8 @@ Creating a Language Translation Tranformer from Scratch.
 
 ![1_BHzGVskWGS_3jEcYYi6miQ](https://github.com/user-attachments/assets/a89a66d6-3715-4c29-a700-9acd3036674f)
 
-Here’s a **README.md** file for your project on **Creating a Language Translation Transformer from Scratch**. 🚀  
 
-This README follows best practices and includes:  
-- Project Overview  
-- Features  
-- Training Instructions  
-- Usage  
-- Model Architecture  
-- Dataset Info  
-- Future Improvements  
 
----
 
 ## **README.md**
 ```md
@@ -109,12 +99,3 @@ Contributions are welcome! Feel free to **fork this repo, create a branch, and s
 - Vaswani et al., ["Attention Is All You Need"](https://arxiv.org/abs/1706.03762) (2017).
 - Hugging Face Datasets: https://huggingface.co/datasets
 
----
-
-## ⭐ **Like this Project? Give it a Star!** ⭐  
-If you find this useful, please **star** this repo and share your feedback!  
-```
-
- 
-
-Let me know how I can help! 🚀
